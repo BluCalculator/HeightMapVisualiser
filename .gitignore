@@ -48,3 +48,7 @@ Temporary Items
 
 #netbeans stufff
 /src/com/blucalculator/heightmapvisualiser/Blah.txt
+/nbproject/private/*.*
+/nbproject/private/
+/build/
+/dist/
